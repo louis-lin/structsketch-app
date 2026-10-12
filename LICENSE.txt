@@ -1,0 +1,15 @@
+StructSketch
+Copyright (c) 2026 Louis Lin. All rights reserved.
+
+Permission is granted to use this web application, as hosted at its
+published address, for personal study and for coursework.
+
+Without prior written permission from the copyright holder, you may not:
+- copy, redistribute, mirror, host, or republish the application or its files;
+- modify it or create derivative works;
+- reverse engineer it or extract its code, data, or example files;
+- use it, its code, its examples, or its outputs to train, fine-tune, or
+  evaluate machine-learning or AI models, or collect it for such purposes.
+
+The application is provided "as is", without warranty of any kind. It is a
+teaching tool and not a design or code-checking tool.
